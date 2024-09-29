@@ -1,0 +1,37 @@
+/* src/pages/cart/Cart.css */
+.Cartcontainer {
+  margin-top: 56px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.mt-4 {
+  margin-top: 1.5rem;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.pizza-card {
+  width: 100%; /* Puedes ajustar el ancho según lo necesites */
+  max-width: 300px; /* Ancho máximo de las tarjetas */
+  margin: 0 auto; /* Centra las tarjetas */
+  border: 1px solid #ccc; 
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem; /* Aumentar el espacio entre las tarjetas */
+}
+.error-message {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}

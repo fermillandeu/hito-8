@@ -1,0 +1,14 @@
+.home-container {
+    height: 100%;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
